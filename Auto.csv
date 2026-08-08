@@ -1,0 +1,22 @@
+Hersteller;Modell;Kilometerstand;Baujahr;PS;Zustand;Kraftstoff;Verbrauch;Preis;Gebraucht
+BMW;520;40000;2017;190;Gebraucht;Diesel;4,5;46900;Ja
+Volvo;XC60;42656;2017;190;Gebraucht;Diesel;4,7;32930;Ja
+Volvo;XC90;111183;2015;224;Gebraucht;Diesel;5,8;40930;Ja
+Audi;Q3;42922;2016;184;Gebraucht;Diesel;5,2;30990;Ja
+Seat;Ibiza;138000;2008;69;Gebraucht;Benzin;5,9;3200;Ja
+Volkswagen;Tiguan;13189;2018;179;Gebraucht;Benzin;7,6;39930;Ja
+Volkswagen;Touran;45000;2014;140;Gebraucht;Benzin;7,2;17000;Ja
+Volkswagen;Passat;100;2018;67;Gebraucht;Benzin;4,7;10240;Ja
+Audi;A3;345000;2006;170;Gebraucht;Diesel;5,7;3550;Ja
+Volvo;V50;260000;2008;109;Gebraucht;Diesel;5;3200;Ja
+Renault;Scenic;2000;2018;140;Neu;Benzin;5,5;24990;Nein
+Renault;Clio;2000;2018;90;Neu;Benzin;5;14990;Nein
+Kia;Rio;4;;84;Neu;Benzin;5,5;14250;Nein
+Peugeot;307;52750;2004;109;Gebraucht;Benzin;;2790;Ja
+BMW;218;42346;2015;150;Gebraucht;Diesel;4,5;21950;Ja
+Volkswagen;Caddy;156600;2007;105;Gebraucht;Diesel;6,9;2890;Ja
+Fiat;500;6917;2013;69;Gebraucht;Benzin;5,1;9450;Ja
+Mazda;6;;;194;Neu;Benzin;6,8;34190;Nein
+Mazda;MX-5;;;132;Neu;Benzin;6,3;23190;Nein
+Volkswagen;T6;26537;2017;204;Jahreswagen;Diesel;7,6;60990;Nein
+ Citroën;Berlingo;73511;2012;120;Gebraucht;Autogas;7.5;10450;Ja
